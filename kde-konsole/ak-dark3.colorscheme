@@ -80,13 +80,13 @@ Color=221,227,238
 Color=221,227,238
 
 [Foreground]
-Color=204,204,204
+Color=221,221,221
 
 [ForegroundFaint]
-Color=204,204,204
+Color=221,221,221
 
 [ForegroundIntense]
-Color=204,204,204
+Color=221,221,221
 
 [General]
 Blur=false

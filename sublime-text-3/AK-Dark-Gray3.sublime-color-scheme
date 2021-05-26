@@ -2,10 +2,10 @@
     "name": "AK Dark Gray 3 Color Scheme",
     "globals": {
         "background": "#282828",
-        "foreground": "#c0c0c0",
+        "foreground": "#dddddd",
         "line_highlight": "#2d3636",
-        "caret": "#c0c0c0",
-        "block_caret": "#c0c0c0",
+        "caret": "#dddddd",
+        "block_caret": "#dddddd",
         "selection": "#404040",
         "brackets_options": "italic",
         "brackets_foreground": "#eeeeaa",
@@ -30,12 +30,12 @@
         {
             "name": "Variables and keys",
             "scope": "entity.other.attribute-name, variable, meta.definition.variable.name, meta.object-literal.key, support.type.vendored.property-name, support.type.property-name, support.variable",
-            "foreground": "#c0c0c0"
+            "foreground": "#dddddd"
         },
         {
             "name": "JSON",
             "scope": "source.json meta.mapping.key string",
-            "foreground": "#c0c0c0"
+            "foreground": "#dddddd"
         },
         {
             "name": "Keywords",

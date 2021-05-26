@@ -40,7 +40,7 @@
   // Sidebar
   {
     "class": "sidebar_label",
-    "fg": "#c0c0c0",
+    "fg": "#dddddd",
     "font.size": 13
   },
   {
@@ -106,7 +106,7 @@
   // Tooltips
   {
     "class": "tool_tip_control",
-    "layer0.tint": "#c0c0c0",
+    "layer0.tint": "#dddddd",
     "layer0.opacity": 1.0,
     "content_margin": [8, 3, 8, 3]
   },
